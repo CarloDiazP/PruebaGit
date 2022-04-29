@@ -8,7 +8,9 @@ public class Calculadora{
 		return a + b;
 	}
 	//Funcion sub(-)
-		//Mensaje "anthony"
+	public int sub(int a, int b){
+		return a - b;
+	}
 	//Funcion mul(*)
 	//Funcion div(/)
 	//Funcion mod(%)
