@@ -1,4 +1,8 @@
 public class Calculadora{
+
+	public static void modFunc(int a, int b){
+		return a % b;
+	}
 	//Funcion add(+)
 	public int add(int a, int b){
 		return a + b;
